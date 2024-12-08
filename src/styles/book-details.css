@@ -1,0 +1,18 @@
+.book-card button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    width: 100%;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;  
+  }
+  
+  .book-card button:hover {
+    background-color: #0056b3;
+    transform: translateY(-3px);
+  }
+  
