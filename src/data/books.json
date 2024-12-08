@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "image": "/assets/power-of-habit.jpg",
+    "review": "A book about how habits shape our lives.",
+    "totalPages": 371,
+    "rating": 4.8,
+    "category": "Self-help",
+    "tags": ["Habits", "Psychology"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 2,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "/assets/atomic-habits.jpg",
+    "review": "Learn how tiny changes lead to remarkable results.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": "Self-help",
+    "tags": ["Habits", "Personal Development"],
+    "publisher": "Penguin Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 3,
+    "bookName": "Deep Work",
+    "author": "Cal Newport",
+    "image": "/assets/deep-work.jpg",
+    "review": "A book about mastering the art of focused success in a distracted world.",
+    "totalPages": 304,
+    "rating": 4.7,
+    "category": "Productivity",
+    "tags": ["Focus", "Productivity"],
+    "publisher": "Grand Central Publishing",
+    "yearOfPublishing": 2016
+  },
+  {
+    "bookId": 4,
+    "bookName": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "image": "/assets/7-habits.jpg",
+    "review": "A classic book on personal development and effectiveness.",
+    "totalPages": 381,
+    "rating": 4.6,
+    "category": "Personal Development",
+    "tags": ["Leadership", "Personal Development"],
+    "publisher": "Simon & Schuster",
+    "yearOfPublishing": 1989
+  },
+  {
+    "bookId": 5,
+    "bookName": "Grit",
+    "author": "Angela Duckworth",
+    "image": "/assets/grit.jpg",
+    "review": "Learn about passion and perseverance in the pursuit of success.",
+    "totalPages": 277,
+    "rating": 4.5,
+    "category": "Psychology",
+    "tags": ["Perseverance", "Passion"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 2016
+  },
+  {
+    "bookId": 6,
+    "bookName": "Mindset",
+    "author": "Carol S. Dweck",
+    "image": "/assets/mindset.jpg",
+    "review": "A book on how the right mindset can change your life.",
+    "totalPages": 288,
+    "rating": 4.6,
+    "category": "Psychology",
+    "tags": ["Growth Mindset", "Psychology"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2006
+  }
+]
